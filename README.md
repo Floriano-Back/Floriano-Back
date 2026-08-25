@@ -5,13 +5,6 @@
 
 <br>
 
-<div align="center">
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/augusto-floriano-4165731a4)
-  [![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ah.floriano90@gmail.com)
-
-</div>
-
 ---
 
 ### 🚀 Sobre Mim
@@ -37,22 +30,6 @@ Aqui estão algumas das principais tecnologias com as quais trabalho:
 | **Ferramentas & DevOps** | `Git`, `GitHub`, `Docker`, `Linux` |
 
 </div>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Floriano-Back&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Floriano-Back&layout=compact&theme=radical" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Floriano-Back&theme=radical" />
-</div>
-
----
 
 <div align="center">
   <p>⭐️ Obrigado por visitar meu perfil!</p>
