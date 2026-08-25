@@ -8,7 +8,7 @@
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/augusto-floriano-4165731a4)
-  [![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](a.henrique90@outlook.com)
+  [![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ah.floriano90@gmail.com)
 
 </div>
 
