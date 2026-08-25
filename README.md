@@ -3,6 +3,17 @@
   <p><em>Desenvolvedor de Software em construção.</em></p>
 </div>
 
+<div align="center">
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Floriano-Back&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Floriano-Back&show_icons=true&include_all_commits=true&theme=dark)
+
+</div>
+
+<div align="center">
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Floriano-Back&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Floriano-Back&langs_count=4&theme=dark)
+
+</div>
 <br>
 
 ---
