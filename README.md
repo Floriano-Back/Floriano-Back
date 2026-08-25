@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou o Floriano! 👋</h1>
-  <p><em>Desenvolvedor de Software em construção por criar soluções eficientes e inovadoras.</em></p>
+  <p><em>Desenvolvedor de Software em construção.</em></p>
 </div>
 
 <br>
