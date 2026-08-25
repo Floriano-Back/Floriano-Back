@@ -24,9 +24,9 @@ Aqui estão algumas das principais tecnologias com as quais trabalho:
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Linguagens** | `JavaScript`, `C#` |
-| **Frontend** | `React`, `Next.js`, `HTML5`, `CSS3`, `Tailwind CSS` |
-| **Backend** | `Node.js`, `Express`, `Spring Boot`, etc. |
-| **Banco de Dados** | `PostgreSQL`, `MySQL` |
+| **Frontend** | `Next.js`, `HTML5`, `CSS3`, `Tailwind CSS` |
+| **Backend** | `Node.js`, `Express` |
+| **Banco de Dados** | `MySQL` |
 | **Ferramentas & DevOps** | `Git`, `GitHub`, `Docker`, `Linux` |
 
 </div>
