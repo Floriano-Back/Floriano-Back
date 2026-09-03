@@ -1,28 +1,15 @@
 <div align="center">
-  <h1>Olá, eu sou o Floriano! 👋</h1>
+  <h1>Olá, eu sou o Augusto Floriano! 👋</h1>
   <p><em>Desenvolvedor de Software em construção.</em></p>
 </div>
 
-<div align="center">
-  
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Floriano-Back&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Floriano-Back&show_icons=true&include_all_commits=true&theme=dark)
+<div>
+
+  Em transição para o Desenvolvimento Back-end, trago um perfil analítico e grande curiosidade para entender o funcionamento dos sistemas na prática. Atualmente, dedico meus estudos a Node.js, bancos de dados relacionais e versionamento com Git. Gosto de trabalhar em equipe e busco uma oportunidade de Estágio em Back-end para aprender com profissionais experientes, evoluir tecnicamente e contribuir no dia a dia do projeto.
 
 </div>
 
-<div align="center">
-  
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Floriano-Back&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Floriano-Back&langs_count=4&theme=dark)
-
-</div>
 <br>
-
----
-
-### 🚀 Sobre Mim
-
-* 🔭 Atualmente estou trabalhando/estudando em projetos de desenvolvimento de software.
-* 🌱 Estou aprendendo novas tecnologias e aprimorando minhas habilidades em arquitetura de software e boas práticas de código.
-* ⚡ Curiosidade: Gosto de jogos de corrida e quando gosto de um tema eu gosto de pesquisar bastante.
 
 ---
 
@@ -39,6 +26,22 @@ Aqui estão algumas das principais tecnologias com as quais trabalho:
 | **Backend** | `Node.js`, `Express` |
 | **Banco de Dados** | `MySQL` |
 | **Ferramentas & DevOps** | `Git`, `GitHub`, `Docker`, `Linux` |
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Floriano-Back&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Floriano-Back&show_icons=true&include_all_commits=true&theme=dark)
+
+</div>
+
+<div align="center">
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Floriano-Back&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Floriano-Back&langs_count=4&theme=dark)
 
 </div>
 
