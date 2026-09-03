@@ -1,4 +1,7 @@
-# About Me:
+Opá me chamo Augusto Floriano 
+
+---
+# About Me :
 Em transição para o Desenvolvimento Back-end, trago um perfil analítico e grande curiosidade para entender o funcionamento dos sistemas na prática. Atualmente, dedico meus estudos a Node.js, bancos de dados relacionais e versionamento com Git. Gosto de trabalhar em equipe e busco uma oportunidade de Estágio em Back-end para aprender com profissionais experientes, evoluir tecnicamente e contribuir no dia a dia do projeto
 
 
